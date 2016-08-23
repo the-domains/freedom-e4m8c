@@ -1,0 +1,14 @@
+layout_spectrum: 0.9315017978660762
+typography_spectrum: 0.8567219150718302
+color:
+  brandStrength: 0.9173328548204154
+  lightness: 0.6573942047543824
+  saturation: 0.7984604211524129
+  rhythmicContrast: 0.1740498871076852
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+name: Freedom
